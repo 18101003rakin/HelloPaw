@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'ServiceOrder.apps.ServiceorderConfig',
     'Bill.apps.BillConfig',
     'Home.apps.HomeConfig',
-     'crispy_forms'
+    'crispy_forms'
 
 ]
 
